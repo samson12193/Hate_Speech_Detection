@@ -1,2 +1,2 @@
-# git-commit--m-Initial-commit-with-document-
+# Hate_Speech_Detection
 This project detects offensive/hate speech in a document
